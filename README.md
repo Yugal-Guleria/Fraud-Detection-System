@@ -75,7 +75,8 @@ Time: 2
 Recent Transactions: 4
 ```
 
-Output:
+Output:<img width="377" height="350" alt="image" src="https://github.com/user-attachments/assets/a6eb3753-f995-4645-8149-3f0543f7d31c" />
+
 
 ```
 High amount detected  
