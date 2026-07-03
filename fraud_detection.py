@@ -1,5 +1,3 @@
-2
-
 #Starting the program
 print("Fraud Detection System")  
 
