@@ -1,4 +1,4 @@
-1#Starting the program
+#Starting the program
 print("Fraud Detection System")  
 
 # Taking transaction details from user 
