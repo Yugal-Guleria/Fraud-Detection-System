@@ -1,5 +1,3 @@
-123456789
-
 #Starting the program
 print("Fraud Detection System")  
 
